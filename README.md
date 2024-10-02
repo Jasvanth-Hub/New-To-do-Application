@@ -49,7 +49,7 @@ To clone and run this project locally:
 ## Deployment
 
 The app is live on GitHub Pages at:  
-[New Todo Application](https://Jasvanth-Hub.github.io/new-todo-application/)
+[New Todo Application](https://jasvanth-hub.github.io/New-To-do-Application/)
 
 ## Built With
 
